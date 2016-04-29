@@ -1,0 +1,24 @@
+{
+  "name": "expert-potato",
+  "version": "1.0.0",
+  "description": "Experiments with particles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mysterycommand/expert-potato.git"
+  },
+  "keywords": [
+    "particles",
+    "javascript",
+    "canvas"
+  ],
+  "author": "Matt Hayes <matt@mysterycommand.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mysterycommand/expert-potato/issues"
+  },
+  "homepage": "https://github.com/mysterycommand/expert-potato#readme"
+}
